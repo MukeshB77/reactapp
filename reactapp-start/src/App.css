@@ -1,4 +1,81 @@
-.counter {
+/* h1{
+  background-color: aqua;
+} */
+
+.mine{
+  display: inline-block;
+}
+.container{
+  /* display: flex; */
+  flex-direction: column;
+  padding: 20px;
+  /* justify-content: center; */
+  /* align-items: center; */
+  
+}
+
+/* .card{
+  height: 600px;
+  width: 500px;
+  background-color: aqua;
+  border-radius: 20px;
+  display: inline; 
+  align-items: center;
+
+}
+
+img{
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .counter {
   font-size: 16px;
   padding: 5px 10px;
   border-radius: 5px;
@@ -181,4 +258,4 @@
     right: 0;
     border-right-color: var(--border);
   }
-}
+} */
